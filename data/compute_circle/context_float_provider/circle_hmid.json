@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:div",
+  "left": {
+    "type": "minecraft:sub",
+    "left": "compute_circle:circle_x",
+    "right": 4
+  },
+  "right": 2
+}

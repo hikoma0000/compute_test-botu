@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:div",
+  "left": {
+    "type": "minecraft:round",
+    "input": {
+      "type": "minecraft:mul",
+      "inputs": [
+        -300,
+        {
+          "type": "minecraft:cos",
+          "input": "compute_circle:circle_angle"
+        }
+      ]
+    }
+  },
+  "right": 100
+}

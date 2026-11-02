@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:mul",
+  "inputs": [
+    {
+      "type": "minecraft:from_int",
+      "input": {
+        "type": "minecraft:score",
+        "target": "this",
+        "score": "compute_circle"
+      }
+    },
+    0.1
+  ]
+}

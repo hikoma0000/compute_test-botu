@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:sub",
+  "left": 4,
+  "right": "compute_circle:circle_y"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:add",
+  "inputs": [
+    "compute_circle:circle_x",
+    4
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:div",
+  "left": {
+    "type": "minecraft:add",
+    "inputs": [
+      4,
+      "compute_circle:circle_y"
+    ]
+  },
+  "right": 2
+}
